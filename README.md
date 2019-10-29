@@ -1,4 +1,4 @@
-# Secure Server token based
+# Secure Server Token based
 
 * Server Rest API
 * Spring  Boot
